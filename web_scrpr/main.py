@@ -12,3 +12,9 @@ def catcher(topic):
     driver.quit()
 
 catcher(topic)
+
+
+"""
+needs to integrate information first to create rabbit hole functionality
+perhaps it needs a physical or digital body to go along with the knowledge integration
+"""
